@@ -3,8 +3,8 @@ import { Container, Button } from "react-bootstrap";
 import { useState, useEffect } from "react";
 import Player from "./Player";
 
-const CLIENT_ID = "e6e3c67c4d8d40158cca8c96aeb2e3ac";
-const CLIENT_SECRET = "7cfcae5ffe764384a6331c88fe30a8c7";
+const CLIENT_ID = "da7a3cc4972d46fc976b1007505e2510";
+const CLIENT_SECRET = "d4202fcb54b1487aaef818553940357a";
 
 function App() {
   const [accessToken, setAccessToken] = useState("");
